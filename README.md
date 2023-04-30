@@ -1,4 +1,4 @@
-# Boat-Price-Predictor
+# BUY-A-BOAT: Boat-Price-Predictor
 
 ### Problem Statement:
 
